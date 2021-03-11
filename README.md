@@ -5,6 +5,10 @@ Contate-me: www.linkedin.com/in/arianegariso
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  
+ <br>
+  testando
+  
 </details>
 
 Here are some ideas to get you started:
