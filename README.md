@@ -57,14 +57,9 @@ Seja bem vindo(a) ao meu perfil. Sou desenvolvedora Full Stack Jr., formada pela
 <a href="#" target="blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width:100%;"></img></a>
 
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arigariso)](https://github.com/Arigariso/github-readme-stats)
 
-<details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
-  
- <br>
-  testando
-  
-</details>
+
 
