@@ -1,18 +1,16 @@
-<h1>Olá! 👋</h1> 
+<h1>Olá! Me chamo Ariane Gariso 👋</h1> 
 
-Seja bem vindo(a) ao meu perfil! Meu é Ariane Gariso, sou desenvolvedora Full Stack Jr., formada pela Recode Pro. 
+Seja bem vindo(a) ao meu perfil. Sou desenvolvedora Full Stack Jr., formada pela Recode Pro. 
 
 <br>
+
 <h3>Contate-me:</h1>
-< a href="https://www.linkedin.com/in/arianegariso/" target="blank">
-<img align="center" alt="ariane-linkedin" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css" style="max-width:100%;">
+
+<a href="https://www.linkedin.com/in/arianegariso/" target="blank">
+<img align="center" alt="ariane-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arigariso&show_icons=true&theme=merko)
 
