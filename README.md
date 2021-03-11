@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<!--
-**Arigariso/Arigariso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ariane Gariso, sou desenvolvedora Full Stack Jr., formada pela Recode Pro. 
+Contate-me: www.linkedin.com/in/arianegariso
+
+<details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+</details>
 
 Here are some ideas to get you started:
 
