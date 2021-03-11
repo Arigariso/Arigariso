@@ -9,8 +9,11 @@ Seja bem vindo(a) ao meu perfil. Sou desenvolvedora Full Stack Jr., formada pela
 <a href="https://www.linkedin.com/in/arianegariso/" target="blank">
 <img align="center" alt="ariane-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
+<a href="https://www.instagram.com/arianegarisocantora" target="blank">
+<img align="center" alt="ariane-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
+</a>
 
-<br><br><br>
+<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arigariso&show_icons=true&theme=merko)
 
