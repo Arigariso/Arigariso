@@ -1,9 +1,11 @@
-### Hi there 👋
+### Olá! 👋
 
-Olá, seja bem vindo(a) ao meu perfil. Meu é Ariane Gariso, sou desenvolvedora Full Stack Jr., formada pela Recode Pro. 
+Seja bem vindo(a) ao meu perfil. Meu é Ariane Gariso, sou desenvolvedora Full Stack Jr., formada pela Recode Pro. 
 Contate-me: www.linkedin.com/in/arianegariso
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arigariso&show_icons=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arigariso)](https://github.com/Arigariso/github-readme-stats)
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
