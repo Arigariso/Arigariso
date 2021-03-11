@@ -2,9 +2,8 @@
 
 Seja bem vindo(a) ao meu perfil. Sou desenvolvedora Full Stack Jr., formada pela Recode Pro. 
 
-<br>
+<h3>Contate-me:</h3>
 
-<h3>Contate-me:</h1>
 
 <a href="https://www.linkedin.com/in/arianegariso/" target="blank">
 <img align="center" alt="ariane-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
@@ -16,9 +15,13 @@ Seja bem vindo(a) ao meu perfil. Sou desenvolvedora Full Stack Jr., formada pela
 <img align="center" alt="sinal-youtube" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/185/185983.svg?token=exp=1615474979~hmac=7baa64e0b7dd3a8bb83850233c1379c5" style="max-width:100%;">
 </a>
 
-<br><br>
+<br>
+
+<hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arigariso&show_icons=true&theme=merko)
+
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arigariso)](https://github.com/Arigariso/github-readme-stats)
 
