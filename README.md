@@ -10,7 +10,7 @@ Seja bem vindo(a) ao meu perfil. Sou desenvolvedora Full Stack Jr., formada pela
 <img align="center" alt="ariane-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 
-<br>
+<br><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arigariso&show_icons=true&theme=merko)
 
